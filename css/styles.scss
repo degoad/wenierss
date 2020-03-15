@@ -3,6 +3,7 @@ body{
 }
 .contact{
   color: black;
+  text-align: center;
 }
 .contact .contact-form {
   width: 100%;
@@ -20,7 +21,7 @@ body{
   font-weight: bold;
 }
 .contact input, .contact textarea{
-  width: 100%;
+  width: 20%;
   padding: 10px;
   margin-bottom: 20px;
   border: none;
